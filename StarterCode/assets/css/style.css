@@ -1,0 +1,10 @@
+html {position: relative;min-height: 100%;}
+body {font-family: Times;padding-bottom: 80px;}
+
+#footer {position: absolute;bottom: 0;width: 100%;height: 10px;
+  padding-top: 20px;padding-bottom: 40px;
+  text-align: center;background-color: gold;}
+ 
+#footer p {font-size: 14px;margin: 0;}
+.iframeContainer {border: 1px solid #e3e3e3;padding: 20px;}
+
